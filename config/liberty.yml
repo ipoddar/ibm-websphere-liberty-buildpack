@@ -15,6 +15,6 @@
 
 # Configuration for the Liberty container
 ---
-repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/"
+repository_root: "http://ausgsa.ibm.com/gsa/ausgsa/home/i/p/ipoddar/web/public/wlp-developers-runtime-8.5.5.1.jar"
 version: 8.5.+
 minify: false
